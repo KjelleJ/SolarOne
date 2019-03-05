@@ -4,6 +4,8 @@ SolarOne - an Android-app - calculates and shows solar data for any place on ear
 
 Note: To see some screenshots of SolarOne check the png-files.
 
+solarone.gz contains source code, assets, and other files from Eclipse. Can (hopefully) be extracted on both Windows and Linux using tar.
+
 # <span lang="EN-US">SolarOne 1.4</span>
 
 **<span lang="EN-US">SolarOne</span>** <span lang="EN-US">calculates and shows solar data for any place on earth. The solar data is stored in a local database on your device. There are 5 predefined places – one for each part of the world but you can add places of your own (see **Add Place** below). The main window shows all places as balloon icons on a world map. Selected places are red balloons and the rest are yellow balloons. Tap on a balloon to see some info and to select or deselect the place. The menu item **Places** shows a list of all places and if they are selected or not. You can also select or deselect using **Places**. On all “map windows” you can use a **Map** or **Satellite** view. Map view is default.</span>
