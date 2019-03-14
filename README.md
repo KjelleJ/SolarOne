@@ -2,7 +2,11 @@
 SolarOne - an Android-app - calculates and shows solar data for any place on earth
 <span lang="EN-US">©GubboIT  2012-2014</span>
 
-Note: To see some screenshots of SolarOne check the png-files.
+![](world7.png)
+![](sector.png)
+![](graphlength.png)
+
+To see more screenshots of SolarOne check the png-files.
 
 solarone.gz contains source code, assets, and other files from Eclipse. Can (hopefully) be extracted on both Windows and Linux using tar.
 
